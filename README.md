@@ -51,11 +51,15 @@ git clone https://github.com/SVijayB/Password-Manager.git
 
 Before running the application, you need to install the [cryptography](https://pypi.org/project/cryptography/) module. To do so, launch your terminal and type `pip install cryptography`. Once completed, you are ready to use the application.
 
-You can also cd to the Password-Manager directory on your terminal and type `pip install -r requirements.txt`.
+You can also cd to the Password-Manager directory on your terminal and type 
+
+<pre>
+pip install -r requirements.txt
+</pre>
 
 Run the `Password_manager.py` file present in the `src` folder.
 
-You can do that by just double clicking on the file if you have the python launcher installed. Else, `cd/` to the `src` folder and type `python Password_manager.py`.
+You can do that by just double clicking on the file if you have the *python launcher* installed. Else, **`cd/`** to the **`src`** folder and type `python Password_manager.py`.
 
 Once you have it running, follow the instructions given by the application.
 
