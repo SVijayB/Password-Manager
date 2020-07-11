@@ -11,9 +11,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/SVijayB/Password-Manager.svg)](https://github.com/SVijayB/Password-Manager/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/SVijayB/Password-Manager.svg)](https://github.com/SVijayB/Password-Manager/graphs/contributors)
 
-[![GitHub license](https://img.shields.io/github/license/SVijayB/Password-Manager.svg)](https://github.com/SVijayB/Password-Manager/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SVijayB/Password-Manager)](https://github.com/SVijayB/Password-Manager/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/SVijayB/Password-Manager.svg)](https://github.com/SVijayB/Password-Manager/releases)
-[![GitHub repo size](https://img.shields.io/github/repo-size/svijayb/Password-Manager)](https://github.com/SVijayB/Password-Manager)
+[![GitHub repo size](https://img.shields.io/github/repo-size/SvijayB/Password-Manager.svg)](https://github.com/SVijayB/Password-Manager)
 
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/SVijayB/Password-Manager/blob/master/.github/CODE_OF_CONDUCT.md)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/SVijayB/Password-Manager/blob/master/.github/CONTRIBUTING.md)
