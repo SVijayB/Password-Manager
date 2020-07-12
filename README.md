@@ -31,11 +31,7 @@
 
 As the number of accounts created increases, it has become hard to collect and save all the passwords safely in one location. And hence I built this python application to create a database that keeps track of all your account usernames and passwords.
 
-## Usage
-
-<p align="center">
-    <img src="assets/images/SS.PNG" alt="SS" border="0">
-</p>
+## Installation
 
 **Prerequisites** : Python 3 and Cryptography module.
 
@@ -56,6 +52,12 @@ You can also cd to the Password-Manager directory on your terminal and type
 <pre>
 pip install -r requirements.txt
 </pre>
+
+## Usage
+
+<p align="center">
+    <img src="assets/images/SS.PNG" alt="SS" border="0">
+</p>
 
 Run the `Password_manager.py` file present in the `src` folder.
 
